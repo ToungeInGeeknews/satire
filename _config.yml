@@ -1,11 +1,11 @@
 # Site settings
-title: Centaurius Blog
+title: Tounge In Geek News
 header-img: img/home-bg.jpg
 email: dev.centaurius@gmail.com
 copyright_name: Centaurius
-description: "Centaurius Blog: A story of development, music and the ramblings on an engineering mind!"
+description: "Light-hearted humor of a satirical nature!"
 baseurl: ""
-url: "centaurius.github.io"
+url: "http://toungeingeeknews.github.io/satire"
 twitter_username: bleedin_orange
 github_username:  centaurius
 facebook_username:  
